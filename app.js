@@ -12,7 +12,7 @@ const express = require('express');
  const bodyparser = require('body-parser');
 
 
- mongoose.connect('mongodb+srv://jatin_1291:OOvXuMw4UQiWaocM@cluster0.0ebpw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+ mongoose.connect('mongodb+srv://veer1234:STc207eASCc1nKph@cluster0.0ebpw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
  
 
 
